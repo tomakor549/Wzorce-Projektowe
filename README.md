@@ -1,0 +1,1 @@
+Przykładowe kody wzorców projektowych realizowane zgodnie z instrukcjami z książki "Rusz głową! Wzorce Projektowe".
